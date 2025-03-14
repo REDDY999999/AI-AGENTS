@@ -1,3 +1,3 @@
 # AI-AGENTS
 
-I am buliding an agent that helps for your pets .
+I am building an AI agent to assist with pet care.
